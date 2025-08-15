@@ -2,7 +2,6 @@
 
 ## Hi there, I am Eron👋
 <h3 align="center">A high school student passionate about IT, especially in Web Development, Full-Stack Development, and Cyber Security. I’m determined to keep learning and sharpening my skills to become a professional pentester and an application developer who builds secure and meaningful solutions for the future.</h3>
-
 ##
 
 ### Language and Tools:
