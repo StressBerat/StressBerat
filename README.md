@@ -6,10 +6,10 @@
 
 <h4>📫 Connect with me</h4>
 <p>
-  <a href="https://www.instagram.com/eron.erdiaz/" target="_blank" rel="noreferrer" style="text-decoration:none;>
+  <a href="https://www.instagram.com/eron.erdiaz/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img alt="instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/eron-erdiaz-maladi-880015281/" target="_blank" rel="noreferrer" style="text-decoration:none;>
+  <a href="https://www.linkedin.com/in/eron-erdiaz-maladi-880015281/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a>
 </p>
