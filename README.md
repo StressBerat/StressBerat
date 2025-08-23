@@ -1,8 +1,10 @@
 ![](who.gif)
+---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=625&lines=Hi+there%2C+I+am+Eron%F0%9F%91%8B;Cybersecurity+%26+Full-Stack+Development+Enthusiast+%F0%9F%92%BB;Learning%2C+Hacking+%26+Building+%F0%9F%9A%80" /></p>
 
-## Hi there, I am Eron👋
-
-<h4 align="center">A high school student passionate about IT, especially in Web Development, Full-Stack Development, and Cyber Security. I’m determined to keep learning and sharpening my skills to become a professional pentester and an application developer who builds secure and meaningful solutions for the future.</h4>
+## 🚀 About Me
+A high school student passionate about IT, especially in **Web Development**, **Full-Stack Development**, and **Cyber Security**. I’m determined to keep learning and sharpening my skills to become a **professional pentester** and an **application developer** who builds secure and meaningful solutions for the future.
 
 <h4>📫 Connect with me</h4>
 <p>
@@ -14,9 +16,7 @@
   </a>
 </p>
 
-##
-
-### Language and Tools:
+## 🛠️ Language & Tools
 <div align="center">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" height="40" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" height="40" /></a>
 </div>
-<hr>
+<br>
 <table>
   <tr>
     <td valign="top" align="center">
